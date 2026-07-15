@@ -14,7 +14,7 @@
 
 ## 👋 About us
 
-**Biosfer Teslab** is a European reference company in the analysis of biological samples using high-performance **Nuclear Magnetic Resonance — NMR** technology.
+**Biosfer Teslab** is a reference company in the analysis of biological samples using high-performance **Nuclear Magnetic Resonance — NMR** technology, and other metabolomic services.
 
 Founded in 2013, Biosfer Teslab is a spin-off company of:
 
@@ -48,7 +48,7 @@ We aim to support advances in:
 
 ### 🧬 Metabolomics
 
-We provide comprehensive metabolomic characterization of biological samples using robust, reproducible and high-throughput NMR technology.
+We provide comprehensive metabolomic characterization of biological samples using robust, reproducible and high-throughput NMR technology, among others.
 
 Our platform supports the analysis of:
 
