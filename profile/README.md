@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🧬 Biosfer Teslab
@@ -215,4 +214,3 @@ For research collaborations, technical enquiries or partnership opportunities, c
 © Biosfer Teslab S.L. All rights reserved.
 
 </div>
-```
